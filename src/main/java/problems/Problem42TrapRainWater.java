@@ -39,4 +39,33 @@ public class Problem42TrapRainWater {
         populateMaxRightArray(maxFromRight, height);
         return calculateTrappedWater(maxFromLeft, maxFromRight, height);
     }
+
+    /**
+     * Time Complexity O(n)
+     * Space Complexity O(1)
+     */
+    public int trapOptimal(int[] height) {
+        if (height.length < 3) {
+            return 0;
+        }
+        int maxLeft = height[0];
+        int maxRight = height[height.length - 1];
+        int start = 0, end = height.length - 1;
+        int trappedWater = 0;
+        while (start < end) {
+            if (maxLeft < maxRight) {
+                start++;
+                maxLeft = Math.max(height[start], maxLeft);
+                trappedWater += (maxLeft - height[start]);
+
+            } else {
+                end--;
+                maxRight = Math.max(height[end], maxRight);
+                trappedWater += (maxRight - height[end]);
+
+
+            }
+        }
+        return trappedWater;
+    }
 }
