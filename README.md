@@ -4,23 +4,26 @@ This repository provides solutions to various **LeetCode problems** to help indi
 
 ## **Problem List**
 
-| Problem Number | Problem Name                      | LeetCode URL | Status  |
-|----------------|-----------------------------------|------------|---------|
-| 1              | Two Sum                           | [Link](https://leetcode.com/problems/two-sum/) | ✅ Completed |
-| 11             | Container With Most Water         | [Link](https://leetcode.com/problems/container-with-most-water/) | ✅ Completed |
-| 15             | Three Sum                         | [Link](https://leetcode.com/problems/3sum/) | ✅ Completed |
-| 36             | Valid Sudoku                      | [Link](https://leetcode.com/problems/valid-sudoku/) | ✅ Completed |
-| 42             | Trapping Rain Water               | [Link](https://leetcode.com/problems/trapping-rain-water/) | ✅ Completed |
-| 49             | Group Anagrams                    | [Link](https://leetcode.com/problems/group-anagrams/) | ✅ Completed |
-| 121            | Best Time to Buy and Sell Stocks  | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Completed |
-| 125            | Valid Palindrome                  | [Link](https://leetcode.com/problems/valid-palindrome/) | ✅ Completed |
-| 128            | Longest Common Sequence           | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ Completed |
-| 167            | Two Sum II - Input Array Is Sorted | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ Completed |
-| 217            | Find Duplicates                   | [Link](https://leetcode.com/problems/contains-duplicate/) | ✅ Completed |
-| 238            | Product of an Array Except Self   | [Link](https://leetcode.com/problems/product-of-array-except-self/) | ✅ Completed |
-| 242            | Valid Anagram                     | [Link](https://leetcode.com/problems/valid-anagram/) | ✅ Completed |
-| 271            | Encode and Decode Strings         | [Link](https://leetcode.com/problems/encode-and-decode-strings/) | ✅ Completed |
-| 347            | Top K Frequent Elements           | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | ✅ Completed |
+| Problem Number | Problem Name                                   | LeetCode URL | Status  |
+|----------------|------------------------------------------------|-----------|---------|
+| 1              | Two Sum                                        | [Link](https://leetcode.com/problems/two-sum/) | ✅ Completed |
+| 1              | Longest Substring Without Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ Completed |
+| 11             | Container With Most Water                      | [Link](https://leetcode.com/problems/container-with-most-water/) | ✅ Completed |
+| 15             | Three Sum                                      | [Link](https://leetcode.com/problems/3sum/) | ✅ Completed |
+| 36             | Valid Sudoku                                   | [Link](https://leetcode.com/problems/valid-sudoku/) | ✅ Completed |
+| 42             | Trapping Rain Water                            | [Link](https://leetcode.com/problems/trapping-rain-water/) | ✅ Completed |
+| 49             | Group Anagrams                                 | [Link](https://leetcode.com/problems/group-anagrams/) | ✅ Completed |
+| 121            | Best Time to Buy and Sell Stocks               | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ Completed |
+| 125            | Valid Palindrome                               | [Link](https://leetcode.com/problems/valid-palindrome/) | ✅ Completed |
+| 128            | Longest Common Sequence                        | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ Completed |
+| 167            | Two Sum II - Input Array Is Sorted             | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ Completed |
+| 217            | Find Duplicates                                | [Link](https://leetcode.com/problems/contains-duplicate/) | ✅ Completed |
+| 238            | Product of an Array Except Self                | [Link](https://leetcode.com/problems/product-of-array-except-self/) | ✅ Completed |
+| 242            | Valid Anagram                                  | [Link](https://leetcode.com/problems/valid-anagram/) | ✅ Completed |
+| 271            | Encode and Decode Strings                      | [Link](https://leetcode.com/problems/encode-and-decode-strings/) | ✅ Completed |
+| 347            | Top K Frequent Elements                        | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | ✅ Completed |
+| 424            | Longest Repeating Character Replacement        | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/) | ✅ Completed |
+| 567            | Permuation In String                           | [Link](https://leetcode.com/problems/permutation-in-string/) | ✅ Completed |
 
 ## **Status Legend**  
 - ✅ **Completed** - Solution is available  
